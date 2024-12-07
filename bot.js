@@ -7,7 +7,7 @@ const bot = new TelegramBot('6544724506:AAHUPaz3qzlEoCzYAzQlMd_jvkRcCCqS4n4', { 
 // Liste des mots-clés interdits (arnaqueurs, insultes, termes dénigrants)
 const forbiddenKeywords = [
   // Mots d'arnaqueurs
-  "porno", "drogue", "gagné", "coupon scores exact", "contacté moi",
+  "porno", "iphone",  "gain","abonnement","Netflix","maître","rituel","magique", "aviator","229","drogue", "gagné", "coupon scores exact", "contacté moi",
   "trading", "mon company", "cashout", "plan d'investissement", 
   "maître marabout", "doublez votre argent", "multiplication d'argent",
   "investissement rapide", "garanti à 100%", "sans risque", 
