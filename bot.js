@@ -21,7 +21,7 @@ const forbiddenKeywords = [
   "revenus garantis", "profitez maintenant", "opportunité unique",
 
   // Insultes fréquentes
-  "idiot", "imbécile", "abruti", "connard", "salope", "crétin", "bouffon", 
+  "idiot","appel video","sexe","imbécile", "abruti", "connard", "salope", "crétin", "bouffon", 
   "batard", "enfoiré", "fils de pute", "merdeux", "clochard", "chien", 
   "va te faire foutre", "sale con", "trou du cul",
 
