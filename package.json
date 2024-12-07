@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot-gardien",
+  "version": "1.0.0",
+  "description": "Un bot Telegram pour surveiller et supprimer les messages indésirables dans les groupes",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "author": "Votre Nom",
+  "license": "ISC"
+}
